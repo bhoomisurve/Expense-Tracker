@@ -42,7 +42,6 @@ A **Streamlit-powered web application** for tracking personal expenses, analyzin
 
 ## ✨ Future Enhancements
 - Add **user authentication** (multi-user support).
-- **Dark mode UI** for better aesthetics.
 - Generate **monthly PDF reports** with charts.
 - AI-based **spending insights**.
 
